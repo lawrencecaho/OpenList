@@ -16,3 +16,6 @@ DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 # Government and Organization Official
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,edu
+
+GEOIP,US
+GEOSITE,us
