@@ -1,2 +1,1 @@
-GEOIP,US
-GEOSITE,US
+NOT,((GEOIP,CN,no-resolve))
