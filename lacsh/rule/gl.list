@@ -1,1 +1,2 @@
-NOT,((GEOIP,CN,no-resolve))
+#only Xray / V2Ray (sing-box need invert)
+GEOIP,!cn
