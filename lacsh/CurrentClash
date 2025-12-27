@@ -3,7 +3,6 @@ ruleset=✨ AI1,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/ma
 ruleset=✨ AI1,https://raw.githubusercontent.com/bunizao/TutuBetterRules/refs/heads/tutu/RuleList/DOMAlN/OpenAI.list
 ruleset=✨ AI2,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI2.list
 ruleset=🇺🇸 USA,https://raw.githubusercontent.com/lawrencecaho/OpenList/refs/heads/main/lacsh/rule/usa.list
-ruleset=🇺🇸 USA,[]GEOSITE,us
 ruleset=🏛️ GOV,https://raw.githubusercontent.com/lawrencecaho/OpenList/refs/heads/main/lacsh/rule/gov.list
 ruleset=🔐Crypto,https://raw.githubusercontent.com/lawrencecaho/OpenList/refs/heads/main/lacsh/rule/crypto.list
 ruleset=📘 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
