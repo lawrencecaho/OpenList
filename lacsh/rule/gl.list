@@ -1,2 +1,1 @@
-#only Xray / V2Ray (sing-box need invert)
-GEOIP,!cn
+DOMAIN-SUFFIX,quad9.net

@@ -18,5 +18,5 @@ DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,edu
 #Internet and financial service
 DOMAIN-SUFFIX,tradingview.com
-
 GEOIP,US
+PROCESS-NAME,cloudflared
